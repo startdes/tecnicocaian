@@ -1,0 +1,47 @@
+.logo {
+    width: 550px;
+}
+
+.divlinks {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    line-height: 25px;
+}
+
+.divcenter {
+    text-align: center;
+}
+
+.divconteudo {
+    margin: 10px;
+}
+
+.divpropaganda {
+    margin-top: 50px;
+
+}
+
+#link {
+    color: #000000;
+}
+
+body {
+    background-color: #d1d1d1;
+}
+
+.sitetelyoutubecomp {
+    background-color: rgb(57, 53, 53);
+}
+
+.zapzapcolor {
+    background-color: #39890f;
+}
+
+.instacolor {
+    background-color: #b12c2c;
+}
+
+.facecolor {
+    background-color: #4267B2;
+}
